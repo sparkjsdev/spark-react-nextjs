@@ -1,0 +1,94 @@
+{
+  "butterfly.wlg": {
+    "url": "https://asundqui-public.s3.us-west-2.amazonaws.com/gsplats/butterfly.wlg",
+    "directory": "splats"
+  },
+  "butterfly_lo.wlg": {
+    "url": "https://asundqui-public.s3.us-west-2.amazonaws.com/gsplats/butterfly_lo.wlg",
+    "directory": "splats"
+  },
+  "robot-head.ply": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/robot-head.ply",
+    "directory": "splats"
+  },
+  "toad_lo.wlg": {
+    "url": "https://asundqui-public.s3.us-west-2.amazonaws.com/gsplats/toad_lo.wlg",
+    "directory": "splats"
+  },
+  "butterfly-closed.ply": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/butterfly-closed.ply",
+    "directory": "splats"
+  },
+  "butterfly-low.compressed.ply": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/butterfly-low.compressed.ply",
+    "directory": "splats"
+  },
+  "plant-low.compressed.ply": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/plant-low.compressed.ply",
+    "directory": "splats"
+  },
+  "fireplace.ply": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/fireplace.ply",
+    "directory": "splats"
+  },
+  "branzino-amarin.spz": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/food/branzino-amarin.spz",
+    "directory": "splats/food"
+  },
+  "burger-from-amboy.spz": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/food/burger-from-amboy.spz",
+    "directory": "splats/food"
+  },
+  "clams-and-caviar-by-ikoyi.spz": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/food/clams-and-caviar-by-ikoyi.spz",
+    "directory": "splats/food"
+  },
+  "coral-caviar.spz": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/food/coral-caviar.spz",
+    "directory": "splats/food"
+  },
+  "double-Double-from-InNOut.spz": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/food/double-Double-from-InNOut.spz",
+    "directory": "splats/food"
+  },
+  "gyro.spz": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/food/gyro.spz",
+    "directory": "splats/food"
+  },
+  "iberico-sandwich-by-reserve.spz": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/food/iberico-sandwich-by-reserve.spz",
+    "directory": "splats/food"
+  },
+  "primerib-tamos.spz": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/food/primerib-tamos.spz",
+    "directory": "splats/food"
+  },
+  "sayori-ngai.spz": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/food/sayori-ngai.spz",
+    "directory": "splats/food"
+  },
+  "steaksandwich-mels.spz": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/food/steaksandwich-mels.spz",
+    "directory": "splats/food"
+  },
+  "pad-thai.spz": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/food/pad-thai.spz",
+    "directory": "splats/food"
+  },
+  "tomahawk-niku.spz": {
+    "url": "https://diegomarcos.com/assets-splats/gs3d/food/tomahawk-niku.spz",
+    "directory": "splats/food"
+  },
+  "rubberduck.glb": {
+    "url": "https://diegomarcos.com/assets-splats/models/rubberduck.glb",
+    "directory": "models"
+  },
+  "table.glb": {
+    "url": "https://diegomarcos.com/assets-splats/models/table.glb",
+    "directory": "models"
+  },
+  "butterfly.png": {
+    "url": " https://asundqui-public.s3.us-west-2.amazonaws.com/blobs/more_butterfly.png",
+    "directory": "images"
+  }
+}

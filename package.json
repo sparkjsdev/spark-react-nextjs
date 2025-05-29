@@ -1,0 +1,32 @@
+{
+  "name": "forge-react-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "assets:clean": "node scripts/clean-assets.js",
+    "assets:download": "node scripts/download-assets.js",
+    "lint": "biome check .",
+    "lint:fix": "biome check . --write"
+  },
+  "dependencies": {
+    "next": "15.3.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "@react-three/drei": "^10.0.8",
+    "@react-three/fiber": "^9.1.2",
+    "@worldlabsai/forge": "git+ssh://git@github.com/forge-gfx/forge.git#dylan/fix-types"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@tailwindcss/postcss": "^4.1.8",
+    "@types/node": "^20.17.52",
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.5",
+    "tailwindcss": "^4.1.8",
+    "typescript": "^5.8.3"
+  }
+}
