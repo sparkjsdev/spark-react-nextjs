@@ -13,12 +13,12 @@
     "lint:fix": "biome check . --write"
   },
   "dependencies": {
+    "@react-three/drei": "^10.1.2",
+    "@react-three/fiber": "^9.1.2",
+    "@worldlabsai/forge": "github:forge-gfx/forge#dylan/fix-types",
     "next": "15.3.2",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0",
-    "@react-three/drei": "^10.0.8",
-    "@react-three/fiber": "^9.1.2",
-    "@worldlabsai/forge": "git+ssh://git@github.com/forge-gfx/forge.git#dylan/fix-types"
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
