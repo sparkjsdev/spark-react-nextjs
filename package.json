@@ -15,7 +15,7 @@
   "dependencies": {
     "@react-three/drei": "^10.1.2",
     "@react-three/fiber": "^9.1.2",
-    "@worldlabsai/forge": "github:forge-gfx/forge#dylan/fix-types",
+    "@worldlabsai/forge": "github:forge-gfx/forge",
     "next": "15.3.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
