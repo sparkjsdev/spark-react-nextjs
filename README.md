@@ -4,6 +4,14 @@ A basic example of using Forge in a Next.js app with App Router. This example us
 
 ## Running the example
 
+First, download the assets:
+
+```bash
+npm run assets:download
+```
+
+Then, run the development server:
+
 ```bash
 npm install
 npm run dev

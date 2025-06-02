@@ -1,94 +1,102 @@
 {
-  "butterfly.wlg": {
-    "url": "https://asundqui-public.s3.us-west-2.amazonaws.com/gsplats/butterfly.wlg",
+  "robot-head.spz": {
+    "url": "https://forge.dev/assets/splats/robot-head.spz",
     "directory": "splats"
   },
-  "butterfly_lo.wlg": {
-    "url": "https://asundqui-public.s3.us-west-2.amazonaws.com/gsplats/butterfly_lo.wlg",
+  "forge.spz": {
+    "url": "https://forge.dev/assets/splats/forge.spz",
     "directory": "splats"
   },
-  "robot-head.ply": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/robot-head.ply",
+  "butterfly-wings-closed.spz": {
+    "url": "https://forge.dev/assets/splats/butterfly-wings-closed.spz",
     "directory": "splats"
   },
-  "toad_lo.wlg": {
-    "url": "https://asundqui-public.s3.us-west-2.amazonaws.com/gsplats/toad_lo.wlg",
+  "butterfly.spz": {
+    "url": "https://forge.dev/assets/splats/butterfly.spz",
     "directory": "splats"
   },
-  "butterfly-closed.ply": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/butterfly-closed.ply",
+  "butterfly-ai.spz": {
+    "url": "https://forge.dev/assets/splats/butterfly-ai.spz",
     "directory": "splats"
   },
-  "butterfly-low.compressed.ply": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/butterfly-low.compressed.ply",
+  "fireplace.spz": {
+    "url": "https://forge.dev/assets/splats/fireplace.spz",
     "directory": "splats"
   },
-  "plant-low.compressed.ply": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/plant-low.compressed.ply",
-    "directory": "splats"
-  },
-  "fireplace.ply": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/fireplace.ply",
+  "snow-street.spz": {
+    "url": "https://forge.dev/assets/splats/snow-street.spz",
     "directory": "splats"
   },
   "branzino-amarin.spz": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/food/branzino-amarin.spz",
+    "url": "https://forge.dev/assets/splats/food/branzino-amarin.spz",
     "directory": "splats/food"
   },
   "burger-from-amboy.spz": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/food/burger-from-amboy.spz",
+    "url": "https://forge.dev/assets/splats/food/burger-from-amboy.spz",
     "directory": "splats/food"
   },
   "clams-and-caviar-by-ikoyi.spz": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/food/clams-and-caviar-by-ikoyi.spz",
+    "url": "https://forge.dev/assets/splats/food/clams-and-caviar-by-ikoyi.spz",
     "directory": "splats/food"
   },
   "coral-caviar.spz": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/food/coral-caviar.spz",
+    "url": "https://forge.dev/assets/splats/food/coral-caviar.spz",
     "directory": "splats/food"
   },
-  "double-Double-from-InNOut.spz": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/food/double-Double-from-InNOut.spz",
+  "double-double-from-InNOut.spz": {
+    "url": "https://forge.dev/assets/splats/food/double-Double-from-InNOut.spz",
     "directory": "splats/food"
   },
   "gyro.spz": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/food/gyro.spz",
+    "url": "https://forge.dev/assets/splats/food/gyro.spz",
     "directory": "splats/food"
   },
   "iberico-sandwich-by-reserve.spz": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/food/iberico-sandwich-by-reserve.spz",
+    "url": "https://forge.dev/assets/splats/food/iberico-sandwich-by-reserve.spz",
     "directory": "splats/food"
   },
   "primerib-tamos.spz": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/food/primerib-tamos.spz",
-    "directory": "splats/food"
-  },
-  "sayori-ngai.spz": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/food/sayori-ngai.spz",
+    "url": "https://forge.dev/assets/splats/food/primerib-tamos.spz",
     "directory": "splats/food"
   },
   "steaksandwich-mels.spz": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/food/steaksandwich-mels.spz",
+    "url": "https://forge.dev/assets/splats/food/steaksandwich-mels.spz",
     "directory": "splats/food"
   },
   "pad-thai.spz": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/food/pad-thai.spz",
+    "url": "https://forge.dev/assets/splats/food/pad-thai.spz",
     "directory": "splats/food"
   },
   "tomahawk-niku.spz": {
-    "url": "https://diegomarcos.com/assets-splats/gs3d/food/tomahawk-niku.spz",
+    "url": "https://forge.dev/assets/splats/food/tomahawk-niku.spz",
     "directory": "splats/food"
   },
   "rubberduck.glb": {
-    "url": "https://diegomarcos.com/assets-splats/models/rubberduck.glb",
+    "url": "https://forge.dev/assets/models/rubberduck.glb",
     "directory": "models"
   },
   "table.glb": {
-    "url": "https://diegomarcos.com/assets-splats/models/table.glb",
+    "url": "https://forge.dev/assets/models/table.glb",
     "directory": "models"
   },
   "butterfly.png": {
-    "url": " https://asundqui-public.s3.us-west-2.amazonaws.com/blobs/more_butterfly.png",
+    "url": "https://forge.dev/assets/images/butterfly.png",
     "directory": "images"
+  },
+  "sky.jpeg": {
+    "url": "https://forge.dev/assets/images/sky.jpeg",
+    "directory": "images"
+  },
+  "furry-logo-pedestal.spz": {
+    "url": "https://forge.dev/assets/splats/furry-logo-pedestal.spz",
+    "directory": "splats"
+  },
+  "cat.spz": {
+    "url": "https://forge.dev/assets/splats/cat.spz",
+    "directory": "splats"
+  },
+  "arrow.glb": {
+    "url": "https://forge.dev/assets/models/arrow.glb",
+    "directory": "models"
   }
 }

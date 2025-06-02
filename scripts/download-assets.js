@@ -39,6 +39,7 @@ function downloadFile(fileUrl, fileName, filePath) {
 
   protocol(fileUrl, (response) => {
     if (response.statusCode !== 200) {
+      filesToDownload--;
       console.error(
         `Download failed: ${response.statusCode} ${response.statusMessage}`,
       );
